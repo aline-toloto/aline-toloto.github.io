@@ -1,5 +1,15 @@
 @font-face {
-   font-family: 'Sk-Modernist-Regular';
+   font-family: 'Quasimoda Medium';
    font-display: swap;
-   src: url('Sk-Modernist-Regular/font.ttf');
+   src: url('Quasimoda Medium/font.ttf');
+}
+@font-face {
+   font-family: 'Kate-Medium';
+   font-display: swap;
+   src: url('Kate-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'quasimoda-light';
+   font-display: swap;
+   src: url('quasimoda-light/font.ttf');
 }
